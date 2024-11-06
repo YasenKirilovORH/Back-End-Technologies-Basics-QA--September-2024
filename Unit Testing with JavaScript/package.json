@@ -1,0 +1,17 @@
+{
+  "name": "unit-testing-with-javascript",
+  "version": "1.0.0",
+  "description": "testing with JS",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "mocha test/04.AddSubtractTests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^10.7.3"
+  }
+}
